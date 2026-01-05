@@ -1,0 +1,49 @@
+Work Item Type,Title,Title 2,Title 3,Title 4,Description,Priority,Assigned To,Iteration Path,Tags,Story Points,Remaining Work,Area Path,Business Value,Risk
+Epic,Healthcare Portal,,,,Top-level initiative,1,rkj@example.com,eShopOnWeb-4mScratch\Iteration 2,DevOps,,,eShopOnWeb-4mScratch\EShop-Web,50,High
+Feature,,Feature-11: Patient Profile,,,Feature under Healthcare Portal,2,rkj@example.com,eShopOnWeb-4mScratch\Iteration 1,Backend,,,eShopOnWeb-4mScratch\EShop-Web,50,Low
+Product Backlog Item,,,PBI-111: Patient Profile story 1,,As a user I need Patient Profile 1,3,rkjbusrb@example.com,eShopOnWeb-4mScratch\Iteration 1,DevOps,5,,eShopOnWeb-4mScratch\EShop-Web,50,High
+Task,,,,Task-1111: Patient Profile task 1,Implement part 1 for Patient Profile 1,2,rkj@example.com,eShopOnWeb-4mScratch\Iteration 3,Backend,,8,eShopOnWeb-4mScratch\EShop-Web,40,Low
+Task,,,,Task-1112: Patient Profile task 2,Implement part 2 for Patient Profile 1,2,rkjausra@example.com,eShopOnWeb-4mScratch\Iteration 1,Frontend,,6,eShopOnWeb-4mScratch\EShop-Web,40,Low
+Product Backlog Item,,,PBI-112: Patient Profile story 2,,As a user I need Patient Profile 2,3,rkjcusrc@example.com,eShopOnWeb-4mScratch\Iteration 3,Security,8,,eShopOnWeb-4mScratch\EShop-Web,20,High
+Task,,,,Task-1121: Patient Profile task 1,Implement part 1 for Patient Profile 2,2,rkjbusrb@example.com,eShopOnWeb-4mScratch\Iteration 1,Backend,,6,eShopOnWeb-4mScratch\EShop-Web,50,High
+Task,,,,Task-1122: Patient Profile task 2,Implement part 2 for Patient Profile 2,4,rkjcusrc@example.com,eShopOnWeb-4mScratch\Iteration 2,Frontend,,8,eShopOnWeb-4mScratch\EShop-Web,50,Low
+Feature,,Feature-12: Appointments,,,Feature under Healthcare Portal,4,rkjausra@example.com,eShopOnWeb-4mScratch\Iteration 3,Frontend,,,eShopOnWeb-4mScratch\EShop-Web,50,High
+Product Backlog Item,,,PBI-121: Appointments story 1,,As a user I need Appointments 1,3,rkjausra@example.com,eShopOnWeb-4mScratch\Iteration 2,API,2,,eShopOnWeb-4mScratch\EShop-Web,80,High
+Task,,,,Task-1211: Appointments task 1,Implement part 1 for Appointments 1,2,rkjausra@example.com,eShopOnWeb-4mScratch\Iteration 1,API,,4,eShopOnWeb-4mScratch\EShop-Web,20,Medium
+Task,,,,Task-1212: Appointments task 2,Implement part 2 for Appointments 1,2,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 2,UI/UX,,2,eShopOnWeb-4mScratch\EShop-Web,40,High
+Product Backlog Item,,,PBI-122: Appointments story 2,,As a user I need Appointments 2,2,rkj@example.com,eShopOnWeb-4mScratch\Iteration 1,Testing,13,,eShopOnWeb-4mScratch\EShop-Web,50,High
+Task,,,,Task-1221: Appointments task 1,Implement part 1 for Appointments 2,4,rkjcusrc@example.com,eShopOnWeb-4mScratch\Iteration 3,Database,,4,eShopOnWeb-4mScratch\EShop-Web,20,Medium
+Task,,,,Task-1222: Appointments task 2,Implement part 2 for Appointments 2,4,rkjausra@example.com,eShopOnWeb-4mScratch\Iteration 3,DevOps,,4,eShopOnWeb-4mScratch\EShop-Web,20,Low
+Feature,,Feature-13: Teleconsultation,,,Feature under Healthcare Portal,2,rkj@example.com,eShopOnWeb-4mScratch\Iteration 2,API,,,eShopOnWeb-4mScratch\EShop-Web,80,Low
+Product Backlog Item,,,PBI-131: Teleconsultation story 1,,As a user I need Teleconsultation 1,2,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 3,Testing,1,,eShopOnWeb-4mScratch\EShop-Web,100,High
+Task,,,,Task-1311: Teleconsultation task 1,Implement part 1 for Teleconsultation 1,4,rkjbusrb@example.com,eShopOnWeb-4mScratch\Iteration 3,Testing,,4,eShopOnWeb-4mScratch\EShop-Web,40,Medium
+Task,,,,Task-1312: Teleconsultation task 2,Implement part 2 for Teleconsultation 1,1,rkjcusrc@example.com,eShopOnWeb-4mScratch\Iteration 1,Database,,4,eShopOnWeb-4mScratch\EShop-Web,80,Medium
+Product Backlog Item,,,PBI-132: Teleconsultation story 2,,As a user I need Teleconsultation 2,4,rkjbusrb@example.com,eShopOnWeb-4mScratch\Iteration 2,UI/UX,13,,eShopOnWeb-4mScratch\EShop-Web,40,Low
+Task,,,,Task-1321: Teleconsultation task 1,Implement part 1 for Teleconsultation 2,4,rkj@example.com,eShopOnWeb-4mScratch\Iteration 1,API,,2,eShopOnWeb-4mScratch\EShop-Web,10,Low
+Task,,,,Task-1322: Teleconsultation task 2,Implement part 2 for Teleconsultation 2,2,rkjausra@example.com,eShopOnWeb-4mScratch\Iteration 3,Database,,4,eShopOnWeb-4mScratch\EShop-Web,30,High
+Bug,,,Bug-11: Healthcare Portal defect,,Defect found in Healthcare Portal,4,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 3,Testing,,8,eShopOnWeb-4mScratch\EShop-Web,30,Medium
+Bug,,,Bug-12: Healthcare Portal defect,,Defect found in Healthcare Portal,3,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 1,Database,,6,eShopOnWeb-4mScratch\EShop-Web,40,Medium
+Epic,Banking Suite,,,,Top-level initiative,2,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 1,API,,,eShopOnWeb-4mScratch\EShop-Web,50,Medium
+Feature,,Feature-21: Accounts,,,Feature under Banking Suite,1,rkjcusrc@example.com,eShopOnWeb-4mScratch\Iteration 1,Frontend,,,eShopOnWeb-4mScratch\EShop-Web,20,High
+Product Backlog Item,,,PBI-211: Accounts story 1,,As a user I need Accounts 1,2,rkj@example.com,eShopOnWeb-4mScratch\Iteration 2,API,5,,eShopOnWeb-4mScratch\EShop-Web,30,High
+Task,,,,Task-2111: Accounts task 1,Implement part 1 for Accounts 1,2,rkjbusrb@example.com,eShopOnWeb-4mScratch\Iteration 2,Security,,8,eShopOnWeb-4mScratch\EShop-Web,50,High
+Task,,,,Task-2112: Accounts task 2,Implement part 2 for Accounts 1,3,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 1,API,,6,eShopOnWeb-4mScratch\EShop-Web,10,High
+Product Backlog Item,,,PBI-212: Accounts story 2,,As a user I need Accounts 2,2,rkj@example.com,eShopOnWeb-4mScratch\Iteration 1,UI/UX,8,,eShopOnWeb-4mScratch\EShop-Web,40,Low
+Task,,,,Task-2121: Accounts task 1,Implement part 1 for Accounts 2,3,rkjcusrc@example.com,eShopOnWeb-4mScratch\Iteration 1,API,,12,eShopOnWeb-4mScratch\EShop-Web,100,Low
+Task,,,,Task-2122: Accounts task 2,Implement part 2 for Accounts 2,4,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 3,Backend,,2,eShopOnWeb-4mScratch\EShop-Web,20,Medium
+Feature,,Feature-22: Transfers,,,Feature under Banking Suite,2,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 2,DevOps,,,eShopOnWeb-4mScratch\EShop-Web,80,Medium
+Product Backlog Item,,,PBI-221: Transfers story 1,,As a user I need Transfers 1,1,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 3,DevOps,1,,eShopOnWeb-4mScratch\EShop-Web,30,High
+Task,,,,Task-2211: Transfers task 1,Implement part 1 for Transfers 1,3,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 1,Security,,8,eShopOnWeb-4mScratch\EShop-Web,80,Low
+Task,,,,Task-2212: Transfers task 2,Implement part 2 for Transfers 1,3,rkjcusrc@example.com,eShopOnWeb-4mScratch\Iteration 2,UI/UX,,8,eShopOnWeb-4mScratch\EShop-Web,100,High
+Product Backlog Item,,,PBI-222: Transfers story 2,,As a user I need Transfers 2,3,rkjausra@example.com,eShopOnWeb-4mScratch\Iteration 3,DevOps,2,,eShopOnWeb-4mScratch\EShop-Web,20,Low
+Task,,,,Task-2221: Transfers task 1,Implement part 1 for Transfers 2,1,rkj@example.com,eShopOnWeb-4mScratch\Iteration 3,Database,,4,eShopOnWeb-4mScratch\EShop-Web,10,Medium
+Task,,,,Task-2222: Transfers task 2,Implement part 2 for Transfers 2,3,rkjausra@example.com,eShopOnWeb-4mScratch\Iteration 2,DevOps,,6,eShopOnWeb-4mScratch\EShop-Web,40,Low
+Feature,,Feature-23: Loans,,,Feature under Banking Suite,4,rkjcusrc@example.com,eShopOnWeb-4mScratch\Iteration 2,Backend,,,eShopOnWeb-4mScratch\EShop-Web,10,High
+Product Backlog Item,,,PBI-231: Loans story 1,,As a user I need Loans 1,2,rkjbusrb@example.com,eShopOnWeb-4mScratch\Iteration 1,Testing,1,,eShopOnWeb-4mScratch\EShop-Web,40,High
+Task,,,,Task-2311: Loans task 1,Implement part 1 for Loans 1,3,rkjdusrd@example.com,eShopOnWeb-4mScratch\Iteration 1,UI/UX,,2,eShopOnWeb-4mScratch\EShop-Web,40,High
+Task,,,,Task-2312: Loans task 2,Implement part 2 for Loans 1,4,rkj@example.com,eShopOnWeb-4mScratch\Iteration 2,UI/UX,,2,eShopOnWeb-4mScratch\EShop-Web,80,Medium
+Product Backlog Item,,,PBI-232: Loans story 2,,As a user I need Loans 2,3,rkj@example.com,eShopOnWeb-4mScratch\Iteration 2,Testing,1,,eShopOnWeb-4mScratch\EShop-Web,20,Low
+Task,,,,Task-2321: Loans task 1,Implement part 1 for Loans 2,4,rkj@example.com,eShopOnWeb-4mScratch\Iteration 1,API,,12,eShopOnWeb-4mScratch\EShop-Web,40,High
+Task,,,,Task-2322: Loans task 2,Implement part 2 for Loans 2,4,rkj@example.com,eShopOnWeb-4mScratch\Iteration 2,DevOps,,8,eShopOnWeb-4mScratch\EShop-Web,50,Low
+Bug,,,Bug-21: Banking Suite defect,,Defect found in Banking Suite,3,rkj@example.com,eShopOnWeb-4mScratch\Iteration 3,Frontend,,6,eShopOnWeb-4mScratch\EShop-Web,10,High
+Bug,,,Bug-22: Banking Suite defect,,Defect found in Banking Suite,3,rkjcusrc@example.com,eShopOnWeb-4mScratch\Iteration 2,UI/UX,,4,eShopOnWeb-4mScratch\EShop-Web,10,High
